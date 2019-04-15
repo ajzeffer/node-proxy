@@ -1,0 +1,21 @@
+{
+  "name": "dtm-proxy",
+  "version": "1.0.0",
+  "description": "dtm proxy ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "na "
+  },
+  "author": "Adam Zeffer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-http-proxy": "^1.5.1",
+    "http-proxy-middleware": "^0.19.1"
+  }
+}
